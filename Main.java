@@ -7,3 +7,4 @@ public class Main {
         System.out.println("Resta: " + calculadora.resta(5, 3));
     }
 }
+System.out.println("Multiplicación: " + calculadora.multiplicacion(5, 3));
