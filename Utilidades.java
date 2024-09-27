@@ -5,5 +5,9 @@ public class Utilidades {
 public static boolean esPositivo(int num) { 
     return num >= 0; 
 }
+public int multiplicacion(int a, int b) { 
+   return a * b; 
+}
 
 }
+	
